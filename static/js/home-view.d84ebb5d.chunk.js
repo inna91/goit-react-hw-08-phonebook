@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-template"]=this["webpackJsonpreact-template"]||[]).push([[2],{181:function(t,e,a){t.exports={bg:"HomeView_bg__32xmU",title:"HomeView_title__2HCip"}},206:function(t,e,a){"use strict";a.r(e);var c=a(2),s=a(181),i=a.n(s);e.default=function(){return Object(c.jsx)("div",{className:i.a.bg,children:Object(c.jsx)("h1",{className:i.a.title,children:"Welcome to the app, that stores your contacts "})})}}}]);
+//# sourceMappingURL=home-view.d84ebb5d.chunk.js.map
